@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.snappingeditor",
+  "version": "1.0.0",
+  "displayName": "Extelen Snapping Editor",
+  "description": "This package set the snap value directly in the editor prefs.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["snapping", "utility"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
